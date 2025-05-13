@@ -6,7 +6,7 @@
 
 - GX Works2 Version 1.625B   
 이 프로젝트는 **GX Works2**를 이용해 작성된 Mitsubishi PLC 제어 시스템으로,  
-**2대의 PLC(Q03UDE)**를 Master국과 Local국으로 분리하여 **CC-Link 통신으로 연동**하고,  
+**2대의 PLC(Q03UDE)** 를 Master국과 Local국으로 분리하여 **CC-Link 통신으로 연동**하고,  
 라인 전체 시퀀스 제어(Master)와 로봇/서보 제어(Local) 기능을 분산하여 구성한 구조입니다.
 
 ---
