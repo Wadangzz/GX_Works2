@@ -1,6 +1,6 @@
-
-
 # ⚙️ GX_Works2 - PLC 제어 및 CC-Link 통신 구성
+![image](https://github.com/user-attachments/assets/b6a18e0f-3728-49b3-bb80-681edfc2e48e)
+
 
 ## 📘 프로젝트 개요
 
